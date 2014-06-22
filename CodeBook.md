@@ -3,13 +3,13 @@
 ### Variables
 
    * ID of the subject (30 subjects)
-   * Activity label
-        * Walking
-        * Walking Upstairs
-        * Walking Downstairs
-        * Sitting
-        * Standing
-        * Laying
+   * Activity label :
+        Walking,
+        Walking Upstairs,
+        Walking Downstairs,
+        Sitting,
+        Standing,
+        Laying
    * Mean and standard deviation of measurements from :
         * Accelerometer (units : g)
         * Gyroscope (units : radians/second)
