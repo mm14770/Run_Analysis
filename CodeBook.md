@@ -1,5 +1,7 @@
 ## CodeBook - tidy.mean.csv
 
+The goal is to prepare tidy data that can be used for later analysis.
+
 ### Variables
 
    * ID of the subject (30 subjects)
@@ -11,8 +13,8 @@
         Standing,
         Laying
    * Mean and standard deviation of measurements from :
-        * Accelerometer (units : g)
-        * Gyroscope (units : radians/second)
+        Accelerometer (units : g),
+        Gyroscope (units : radians/second)
 
 ### Getting and cleaning data
 
